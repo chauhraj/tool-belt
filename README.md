@@ -8,6 +8,7 @@
 > folder under data folder.
 >
 >> For eg: To download the data for Santander Customer Satisfaction, execute
+>>
 >> download.sh santander-customer-satisfaction test.csv.zip train.csv.zip
 >
 > It will create a folder santander-customer-satisfaction/data and unzips the downloaded files.
