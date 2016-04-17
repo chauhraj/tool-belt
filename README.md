@@ -2,10 +2,11 @@
 
 ## Following are the goodies that streamlines my day to day job.
 
-### download.sh
+### Kaggle download.sh script
 
 > This script creates s folder and downloads the specified files from Kaggle Competition into Kaggle Competition
-> folder under data folder.
+> folder under data folder.The script gets the list of downloadable files from the data page of the Kaggle 
+> Competition.
 >
 >> For eg: To download the data for Santander Customer Satisfaction, execute
 >>
